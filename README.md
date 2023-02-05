@@ -1,6 +1,6 @@
-"#Fashion_MNIST" 
+In this Notebook Le-Net Architecture was trained on Fashion_MNIST dataset (https://www.kaggle.com/zalando-research/fashionmnist), which is a dataset of Zalando's article images. 
 
-Here I build a convoluation neural network using tensorflow to classify Fashion-MNIST dataset (https://www.kaggle.com/zalando-research/fashionmnist), which is a dataset of Zalando's article images. The training set consists of 60k examples and test set consists of 10k examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes as mentioned below.
+The training set consists of 60k examples and test set consists of 10k examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes as mentioned below.
 
 0 T-shirt/top
 
